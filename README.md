@@ -36,13 +36,16 @@ Technologies used in the project:
 
 ---
 
-<h2>🛠️ Installation Steps:</h2>
+## 🛠️ Installation Steps
 
-<p>1. Clone the repository to your local machine:</p>
+1. **Clone the repository to your local machine:**
 
-<p>2. Open the Code You Want!</p>
+   ```bash
+   git clone https://github.com/Akshint0407/CN-Lab.git
 
-Each file is named based on the concept it demonstrates. Open the `.pkt` files in Cisco Packet Tracer to explore or modify the network.
+2. Navigate to the folder and open the code you want to explore!
+
+> ⚠️ Note: Each file is named based on the concept it demonstrates. Open the `.pkt` files in Cisco Packet Tracer to explore or modify the network.
 
 ## 👨‍💻 Author
 
