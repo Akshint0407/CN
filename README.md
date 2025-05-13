@@ -1,7 +1,29 @@
-<h1 align="center" id="title">Computer Network Laboratory (CNL) Practical Codes</h1>
+# CN-Lab 🚀
+
+This repository contains Cisco Packet Tracer simulation files created as part of the **Computer Network Lab (CNL)** coursework.
+
+## 🧠 About
+
+The files in this repo are designed to help understand the fundamentals of computer networks using practical Cisco Packet Tracer simulations.  
+All simulations were built during the lab sessions and cover key networking concepts like:
+
+- Basic network topology setup  
+- Router and switch configuration  
+- IP addressing and subnetting  
+- Static and dynamic routing  
+
+> ⚠️ Note: This repo currently contains only Cisco Packet Tracer (`.pkt`) files.
+
+## 🛠 Requirements
+
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (Recommended version: 8.0 or above)
 
 
-<p id="description">Welcome to the official repository for the Computer Network Laboratory (CNL) practical codes. This repository is dedicated to storing and organizing the practical codes conducted as part of the 3rd year 5th semester curriculum in the Artificial Intelligence and Data Science department at SPPU University.</p>
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Cisco Packet Tracer
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -9,20 +31,14 @@
 
 <p>2. Open the Code You Want!</p>
 
-<h2>🍰 Contribution Guidelines:</h2>
 
-Contributions are welcome! If you would like to contribute to the repository please follow the outlined guidelines for submitting pull requests. Collaborative efforts can help improve and expand the content available in this repository.
+Each file is named based on the concept it demonstrates. Open the `.pkt` files in Cisco Packet Tracer to explore or modify the network.
 
-  
-  
-<h2>💻 Built with</h2>
+## 👨‍💻 Author
 
-Technologies used in the project:
+- **Akshint**  
+  [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
 
-*   Java
-*   Cisco Packet Tracer
-*   WireShark
+---
 
-<h2>🛡️ License:</h2>
-
-This project is licensed under the MIT License
+Feel free to fork this repo and experiment with the simulations! Contributions and suggestions are welcome. 😊
